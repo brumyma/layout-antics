@@ -173,10 +173,13 @@ nav ul ul li a{
   max-width: 500px;
   overflow: hidden;
   margin-bottom: 30px;
+  margin-right: 20px;
+  float: left;
 }
 
 .news__none{
   padding: 10px;
+  flex-grow: 1;
 }
 
 .subscribe{
